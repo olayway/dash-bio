@@ -60,3 +60,6 @@ out](https://plotly.typeform.com/to/mH1Cpb).
 If you would like to contribute to this repository, please refer to
 the [contributing
 guidelines](https://github.com/plotly/dash-bio/blob/master/CONTRIBUTING.md).
+
+![Visualization of the codebase](./diagram.svg)
+
